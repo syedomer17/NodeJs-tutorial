@@ -1,0 +1,2 @@
+data from input.txt:this is a simple text file for node js output  
+Date created Thu Nov 28 2024 07:47:57 GMT+0530 (India Standard Time)
